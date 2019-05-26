@@ -1,9 +1,13 @@
 app.py is a dummy CRUD API with SQLite
+
 I use SQLAlchemy as an ORM for SQLite
+
 MarshMallow to Serialize and Deserialize json
+
 Flask as a framework to create the host the server for the API
 
-You can access to these API methods with POSTMAN or SOAPUI
+
+You can access to these API methods trought POSTMAN or SOAPUI
 
 To set up this project follow these next steps:
 
